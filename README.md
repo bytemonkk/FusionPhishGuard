@@ -175,13 +175,13 @@ The pipeline consists of:
 # Result Visualizations
 
 <p align="center">
-  <img src="assets/results/catchphish_results.png" width="48%">
-  <img src="assets/results/phishdump_results.png" width="48%">
+  <img src="assets/results/DL_results.png" width="48%">
+  <img src="assets/results/output.png" width="48%">
 </p>
 
 <p align="center">
-  <img src="assets/results/roc_curve.png" width="48%">
-  <img src="assets/results/confusion_matrix.png" width="48%">
+  <img src="assets/results/xgBoost_cm.png" width="48%">
+  <img src="assets/results/randpmForest_cm.png" width="48%">
 </p>
 
 ---
