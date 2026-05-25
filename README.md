@@ -1,5 +1,11 @@
 # FusionPhishGuard
 Phishing detection, mobile and web security, attention mechanism, multi-branch deep learning, word embeddings, transformer, large language models (LLMs), BiLSTM, fusion framework.
+To address these challenges, we propose FusionPhishGuard, an attention-enhanced multi-branch deep learning
+framework designed for intelligent phishing detection across
+mobile and web environments. The framework integrates multiple levels of representation—from raw lexical structures to
+high-level semantic features—using adaptive attention-based
+fusion to model complex relationships between URL tokens,
+subwords, and contextual cues. 
 <!-- ========================= BANNER ========================= -->
 
 <p align="center">
