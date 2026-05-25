@@ -181,16 +181,10 @@ The pipeline consists of:
 
 <p align="center">
   <img src="assets/results/xgBoost_cm.png" width="48%">
-  <img src="assets/results/randpmForest_cm.png" width="48%">
+  <img src="assets/results/randomForest_cm.png" width="48%">
 </p>
 
 ---
-
-# Attention Fusion Mechanism
-
-<p align="center">
-  <img src="assets/attention_module.png" width="85%">
-</p>
 
 FusionPhishGuard employs:
 
