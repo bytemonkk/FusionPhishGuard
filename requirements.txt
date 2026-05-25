@@ -1,0 +1,65 @@
+# =========================
+# Core Deep Learning
+# =========================
+torch>=2.0.0
+torchvision>=0.15.0
+torchaudio>=2.0.0
+
+# =========================
+# Transformers & LLMs
+# =========================
+transformers>=4.40.0
+accelerate>=0.30.0
+sentence-transformers>=2.7.0
+tokenizers>=0.15.0
+
+# =========================
+# Classical Embeddings
+# =========================
+gensim>=4.3.0
+
+# =========================
+# Machine Learning
+# =========================
+scikit-learn>=1.4.0
+xgboost>=2.0.0
+
+# =========================
+# Data Processing
+# =========================
+numpy>=1.26.0
+pandas>=2.2.0
+scipy>=1.12.0
+
+# =========================
+# Visualization
+# =========================
+matplotlib>=3.8.0
+seaborn>=0.13.0
+plotly>=5.20.0
+
+# =========================
+# Notebook Support
+# =========================
+jupyter
+notebook
+ipywidgets
+
+# =========================
+# Utilities
+# =========================
+tqdm>=4.66.0
+pyyaml>=6.0
+joblib>=1.3.0
+rich>=13.7.0
+
+# =========================
+# Evaluation Metrics
+# =========================
+evaluate>=0.4.0
+
+# =========================
+# Optional
+# =========================
+opencv-python
+Pillow
