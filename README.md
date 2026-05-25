@@ -172,20 +172,6 @@ The pipeline consists of:
 
 ---
 
-# Result Visualizations
-
-<p align="center">
-  <img src="assets/results/DL_results.png" width="48%">
-  <img src="assets/results/output.png" width="48%">
-</p>
-
-<p align="center">
-  <img src="assets/results/xgBoost_cm.png" width="48%">
-  <img src="assets/results/randomForest_cm.png" width="48%">
-</p>
-
----
-
 FusionPhishGuard employs:
 
 - Gated Additive Attention
