@@ -297,7 +297,7 @@ The framework is evaluated using:
 ```bibtex
 @inproceedings{fusionphishguard2026,
   title={FusionPhishGuard: An Attention-Enhanced Multi-Branch Framework for Intelligent Phishing Detection on Mobile and Web Platforms},
-  author={Yallavula Yashwanth, Srikanth Panigrahi Sunkara, Manoj Kumar Sunkara, Tangella Vishwanath},
+  author={Yallavula Yashwanth, Srikanth Panigrahi, Manoj Kumar Sunkara, Tangella Vishwanath},
   booktitle={IEEE COMSNETS 2026},
   year={2026}
 }
