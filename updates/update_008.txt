@@ -1,0 +1,2 @@
+Word embeddings optimization - iteration 8
+Better semantic understanding of URLs and content.

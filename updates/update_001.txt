@@ -1,0 +1,2 @@
+Phishing detection model enhancement - iteration 1
+Improved feature extraction and pattern recognition.

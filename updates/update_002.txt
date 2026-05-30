@@ -1,0 +1,2 @@
+BiLSTM model optimization - iteration 2
+Enhanced bidirectional processing capabilities.

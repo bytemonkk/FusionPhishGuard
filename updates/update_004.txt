@@ -1,0 +1,2 @@
+Transformer architecture update - iteration 4
+Enhanced multi-head attention patterns.
