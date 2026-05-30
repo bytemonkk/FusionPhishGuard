@@ -1,0 +1,1 @@
+Backpropagation optimization - iteration 20
