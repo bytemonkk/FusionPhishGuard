@@ -51,13 +51,43 @@ to effectively detect modern phishing attacks, including:
 
 ---
 
-# IEEE COMSNETS 2026 Acceptance
+## Publication
 
-📌 Accepted at **IEEE COMSNETS 2026 (SysAI Track)**
+📖 Published in **IEEE COMSNETS 2026 (SysAI Track)**
 
 ### Paper Title
 
 > **FusionPhishGuard: An Attention-Enhanced Multi-Branch Framework for Intelligent Phishing Detection on Mobile and Web Platforms**
+
+### Authors
+
+* Yashwanth Yallavula
+* Panigrahi Srikanth
+* Manoj Kumar Sunkara
+* Vishwanath Tangella
+
+### Publication Details
+
+* Conference: IEEE International Conference on Communication Systems & Networks (COMSNETS 2026)
+* Track: SysAI (Systems for Artificial Intelligence)
+* Publisher: IEEE
+* Indexing: Scopus Indexed
+
+### Abstract
+
+FusionPhishGuard is an attention-enhanced multi-branch deep learning framework for intelligent phishing detection across mobile and web platforms. The framework integrates multi-granular tokenization, classical word embeddings, transformer encoders, and large language model representations through a gated fusion-attention mechanism. A BiLSTM-based sequential classifier captures contextual dependencies within URLs and web links, enabling robust detection of evolving phishing attacks. Experimental evaluation on the CatchPhish and PhishDump benchmark datasets demonstrates strong performance and generalization across diverse phishing scenarios.
+
+### Research Highlights
+
+* Multi-Granular URL Tokenization
+* Multi-Branch Embedding Architecture
+* Attention-Based Feature Fusion
+* BiLSTM Sequential Context Modeling
+* Mobile and Web Phishing Detection
+* Benchmark Evaluation on CatchPhish and PhishDump
+* Published in IEEE COMSNETS 2026
+* Scopus Indexed Research Publication
+
 
 ---
 
