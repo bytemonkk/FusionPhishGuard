@@ -305,11 +305,20 @@ The framework is evaluated using:
 
 # Acknowledgements
 
-- IEEE COMSNETS 2026
+The authors would like to express their sincere gratitude to
+**Dr. Srinivasa Rao Routhu** for his valuable contributions to
+phishing detection research and for providing access to the
+benchmark datasets that enabled the experimental evaluation
+presented in this work.
+
+We also acknowledge:
+
+- IEEE COMSNETS 2026 (SysAI Track)
 - CatchPhish Dataset
 - PhishDump Dataset
 - PyTorch Ecosystem
-- Open-source Cybersecurity Community
+- Hugging Face Transformers
+- Open-source Cybersecurity Research Community
 
 ---
 
